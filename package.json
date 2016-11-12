@@ -1,12 +1,13 @@
 {
-  "name": "vertical-tabs",
+  "name": "vertical-tabs-right",
   "version": "0.4.3",
-  "description": "Make your tabs vertical",
+  "description": "Make your tabs vertical at the right side of wokrspace",
   "keywords": [
     "tab",
-    "vertical"
+    "vertical",
+	"right"
   ],
-  "repository": "https://github.com/tiger4th/vertical-tabs",
+  "repository": "https://github.com/PFight/vertical-tabs-right",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"

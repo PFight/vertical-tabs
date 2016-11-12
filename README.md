@@ -1,5 +1,5 @@
-# vertical-tabs package
+# vertical-tabs-right package
 
-Make your tabs vertical
+Make your tabs vertical at the right side of the workspace
 
-![](https://raw.githubusercontent.com/tiger4th/gh-pages/master/readme/vertical-tabs/screenshot.png)
+![](https://github.com/PFight/images/raw/master/vertical-tabs-right.png)
