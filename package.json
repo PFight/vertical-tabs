@@ -1,6 +1,6 @@
 {
   "name": "vertical-tabs-right",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Make your tabs vertical at the right side of wokrspace. Fork of the https://atom.io/packages/vertical-tabs.",
   "keywords": [
     "tab",
